@@ -1,0 +1,283 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&display=swap');
+body {
+   font-family: 'Merriweather', serif;
+   margin: 0px;
+   padding: 0px;
+
+
+}
+h1 {font-size: 65px;padding: 40px 0px 20px 0px;margin: 0;}
+h2 {font-size: 50px;padding: 0px 223px 0px 0px;text-align: left;margin: 0px 0px 6px 0;}
+h3 {font-size: 40px;}
+h4 {font-size: 31px;padding: 0px 0px 1px 0px;margin: 0px 0 0 0px;}
+h5 {font-size: 25px;padding: 0 0;margin: 0;font-style: italic;font-size: x-large;}
+h6 {font-size: 20px;}
+              /*header*/
+header {
+text-align: center;
+}
+.marjin {
+   background-image: url(photos/dawn.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   background-color: rgba(0, 0, 0, 0.493);
+   background-blend-mode: multiply;
+}
+
+.header-mane {
+   display: flex;
+   justify-content: space-between;
+   width: 1070px;
+   margin: auto;
+}
+
+.header-1 {}
+
+.a-tag {
+   text-decoration: none;
+   color: white;
+   padding: 0 0 0 0px;
+}
+
+.header-2 {
+    padding: 5px 0;
+}
+.header-2 a {
+    text-decoration: none;
+    color: white;
+    margin: 0px;
+    padding: 0px 0px 0px 10px;
+}
+
+
+              /*futer*/
+
+
+.fouter-mane {
+   color: white;
+}
+
+.fouter-1  {
+   padding: 150px 0;
+   margin: 0;
+}
+
+.fouter-1 h4  {
+    font-style: italic;
+}
+
+.fouter-1 h4 span  {}
+
+.fouter-1 h4 span h1  {}
+
+.fouter-1 h4 span h1 a {
+    
+}
+
+.span {
+   width: 100px;
+   height: 5px;
+   background: #FB2259;
+   display: block;
+   margin: auto;
+   margin-top: 10px;
+}
+
+.ah-tag {
+   color: white;
+   text-decoration: none;
+   letter-spacing: 2px;
+   text-transform: uppercase;
+   background-color: #FB2259;
+   padding: 12px;
+   border-radius: 5px;
+}
+
+              /* midale-section */
+
+.midale-mane {
+text-align: center;
+width: 1070px;
+margin: auto;
+}
+
+.text-1 {}
+
+.text-1 h2 {}
+
+.text-1 h2 span {}
+
+.span2 {}
+
+.photos-mane {
+    display: flex;
+ 
+}
+
+.photos-1 {}
+
+.photos-1 img {
+    height: 302px;
+    object-fit: cover;
+    border-radius: 5px;
+    box-shadow: 10px 10px 2px #8080807d;
+}
+
+.photos-1 img h3 {}
+
+.photos-1 img h3 p {}
+
+.photos-1 img h3 p a {}
+
+.photos-2 {}
+
+.photos-2 img {
+    height: 302px;
+    object-fit: cover;
+    border-radius: 5px;
+    box-shadow: 10px 10px 2px #8080807d;
+}
+
+.photos-2 img h3 {}
+
+.photos-2 img h3 p {}
+
+.photos-2 img h3 p a {}
+
+.a-tags {
+    text-decoration: none;
+    color: #fb2259;
+    letter-spacing: 2px;
+    font-size: 18px;
+    margin-top: 15px;
+    display: block;
+    padding: 0px 0 80px 0px;
+}
+
+            /* magic-section */  
+
+
+
+.magic-mane {
+   text-align: center;
+}
+
+.img-magic {
+   background-image: url(photos/father.jpg);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+   background-color: #1766d69f;
+    background-blend-mode: multiply;
+}
+
+.magic-1  {
+   width: 37%;
+   padding: 133px 0 161px 824px;
+   text-align: left;
+   color: white;
+}
+
+.magic-1 h1 {}
+
+.magic-1 h1 span {}
+.span-3 {
+   width: 100px;
+   height: 5px;
+   background: #FB2259;
+   display: block;
+   padding: 0px 0 0 5px;
+   margin: 0px 0 0 0px;
+}
+}
+
+.magic-1 h1 span p {}
+
+.magic-1 h1 span p a {}
+
+.p-tag {
+    padding: 0 189px 0 0px;
+}
+
+.a-tag4 {
+   text-decoration: none;
+   color: white;
+   letter-spacing: 2px;
+   font-weight: 600;
+}
+
+            /*img-section */
+
+.all-section-mane {
+   width: 1070px;
+   margin: auto;
+   padding: 0 0 80px 0;
+}
+}
+
+.all-section-mane-1 {
+
+}
+.moon {
+display: flex;
+}
+.text-section  {
+    width: 583px;
+    margin: 0;
+    padding: 103px 76px 91px 0;
+}
+
+.text-section h5  {}
+
+.text-section h5 span  {}
+
+.span6 {
+    width: 100px;
+    height: 5px;
+    background: #FB2259;
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 25px;
+}
+
+.text-section h5 span p  {}
+
+.text-section h5 span p a {}
+
+.a111 {
+    text-decoration: none;
+    color: #fb2259;
+    letter-spacing: 2px;
+    font-size: 18px;
+    margin-top: 15px;
+    display: block;
+}
+.img-section {
+    display: flex;
+    padding: 77px 70px 0px 0px;
+    margin: 0 28px 0px 0;
+}
+
+.img-section1 {}
+.
+}
+
+
+.img-section2 img{
+ 
+}
+.img1 {
+   height: 300px;
+   object-fit: cover;
+   margin-bottom: 13px;
+   width: 285px;
+   }
+.img2 {
+   height: 404px;
+   object-fit: cover;
+   margin-bottom: 20px;
+   width: 285px;
+}
