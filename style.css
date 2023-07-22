@@ -9,8 +9,8 @@ body {
 }
 h1 {font-size: 65px;padding: 40px 0px 20px 0px;margin: 0;}
 h2 {font-size: 50px;padding: 0px 223px 0px 0px;text-align: left;margin: 0px 0px 6px 0;}
-h3 {font-size: 40px;}
-h4 {font-size: 31px;padding: 0px 0px 1px 0px;margin: 0px 0 0 0px;}
+h3 {font-size: 40px;padding: 50px 0 0 0;}
+h4 {font-size: 31px;padding: 20px 0px 0px 0px;margin: 0px 0 0 0px;}
 h5 {font-size: 25px;padding: 0 0;margin: 0;font-style: italic;font-size: x-large;}
 h6 {font-size: 20px;}
               /*header*/
@@ -42,7 +42,7 @@ text-align: center;
 }
 
 .header-2 {
-    padding: 5px 0;
+    padding: 20px 0;
 }
 .header-2 a {
     text-decoration: none;
@@ -257,7 +257,7 @@ display: flex;
 }
 .img-section {
     display: flex;
-    padding: 77px 70px 0px 0px;
+    padding: 108px 70px 0px 0px;
     margin: 0 28px 0px 0;
 }
 
@@ -276,8 +276,14 @@ display: flex;
    width: 285px;
    }
 .img2 {
-   height: 404px;
+   height: 400px;
    object-fit: cover;
-   margin-bottom: 20px;
+   margin-bottom: 13px;
    width: 285px;
+}
+.hov:hover {
+color: #FB2259;
+text-decoration: underline;
+transition: all 0.5s linear;
+
 }
